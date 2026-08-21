@@ -1,16 +1,29 @@
-## Hi there 👋
+# Gabriel Weissheimer
 
-<!--
-**Leno17/Leno17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Software Engineer focused on TypeScript, React/Next.js, Node.js/Express and Python/FastAPI.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer with professional experience building high-traffic web applications and e-commerce platforms across front-end and back-end systems.
+
+- Building with TypeScript, React, Next.js, Node.js and Python
+- Experience with REST APIs, GraphQL, PostgreSQL, MongoDB, Docker and AWS
+- Experience shipping AI-powered features using the OpenAI API
+- Interested in full-stack and front-end software engineering opportunities
+- Fluent in English (C2)
+
+## Tech Stack
+
+TypeScript · JavaScript · Python  
+React · Next.js · Node.js · Express · FastAPI  
+PostgreSQL · MongoDB · Prisma  
+Docker · AWS · Git · CI/CD  
+Jest · React Testing Library · Cypress · Vitest
+
+## Featured Projects
+
+Coming soon.
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/gabriel-weissheimer-a19a70285/
